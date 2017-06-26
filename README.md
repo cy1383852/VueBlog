@@ -1,5 +1,5 @@
 # vue-blog
-
+> 这是个down过来的案例，为学习而用，远文见下方地址
 > Vue.js+Node.js+Mongodb+Express的前后端分离的个人博客
 
 > 博客地址：www.xuhaodong.cn
